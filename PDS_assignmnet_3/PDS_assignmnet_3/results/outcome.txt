@@ -1,0 +1,5 @@
+1. The highest number in the whole group is bigger than the highest number in the smaller group, and the average for everyone is also greater than the average for the smaller group.
+
+2. Talking about BMI at the 98th percentile, more people in the whole group have a higher BMI than in the smaller group.
+
+3. When you look at the average and how spread out the numbers are for everyone compared to the small group we made, there's a little difference. Also, the numbers at certain points, like the 98th percentile, are a bit different between the whole group and our small group.
